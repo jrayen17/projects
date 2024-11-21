@@ -9,9 +9,7 @@ ANALYTICS & PREDICTIVE MODELLING OF SOCCER PLAYERS
 2) Code File - Research Project AIT614 - Final Copy(Jason,Vishay,Dhavani).ipynb
 
 CLIMATEGPT – ERASMUS AI – LARGE LANGUAGE MODEL TO RESPOND TO CLIMATE RELATED QUESTIONS
-1) https://github.com/k-sai-prasanth/Capstone-Project-ClimateGPT
-   
-The link above has all code files and information about the project. It is the location where all files are present.
+1) https://github.com/k-sai-prasanth/Capstone-Project-ClimateGPT. -> The link above has all code files and information about the project. It is the location where all files are present.
 
 STATISTICS AND PREDICTIVE ANALYTICS OF DIABETES USING R
 
